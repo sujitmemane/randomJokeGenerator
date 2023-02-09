@@ -3,7 +3,11 @@ This is a JavaScript project that generates random jokes for the user.
 
 # How to use
 Clone the repository to your local machine and open the index.html file in your browser. The joke will automatically generate on the page. You can also click ont the button to generate a new joke.
-
+# Installation
+To use this project, simply clone or download the repository and open the index.html file in your web browser. No additional installation steps are required.
+```
+git clone https://github.com/sujitmemane/randomJokeGenerator.git
+```
 # Features
 Generates a random joke on click.
 Jokes are randomly selected from a pre-determined list of jokes.
