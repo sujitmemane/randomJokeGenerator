@@ -1,6 +1,9 @@
 # Random Joke Generator
 This is a JavaScript project that generates random jokes for the user.
 
+# DEMO
+[randomJokeGenerator](https://randomjokegeneratorr.netlify.app/)
+
 # How to use
 Clone the repository to your local machine and open the index.html file in your browser. The joke will automatically generate on the page. You can also click ont the button to generate a new joke.
 # Installation
